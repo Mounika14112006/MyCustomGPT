@@ -1,4 +1,5 @@
 streamlit==1.24.1
-groq>=0.3.0
+groq
 langdetect
 gTTS
+
