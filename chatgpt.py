@@ -10,7 +10,7 @@ from datetime import datetime
 import os
 
 # ------------------ CONFIG ------------------
-client = Groq(api_key="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")  # ✅ Replace with your valid Groq API key
+client = Groq(api_key="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")  # ✅ Replace with your valid Groq API key
 st.set_page_config(page_title="Mounika's Custom GPT", page_icon="🤖", layout="centered")
 
 # ------------------ CUSTOM HEADER ------------------
